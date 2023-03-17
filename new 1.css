@@ -80,7 +80,7 @@ p {
 	font-weight: bold;
 	color:#fff;
 	font-family: arial;
-	text-decoration: ;
+	padding: 0px 0px 0px 40px;
 }
 .list a:visited {
 	text-decoration: none;
