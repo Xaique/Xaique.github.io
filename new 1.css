@@ -19,7 +19,6 @@ body {
 }
 .header {
 	background: rgba(112, 94, 94,0.8);
-	height: 266px;
 	width: 1300px;
 }
 .logo img{
@@ -34,10 +33,10 @@ body {
 }
 .title1 {
 	font-family: Arial;
-	font-size: 40px;
+	font-size: 80px;
 	font-weight: bold;
 	float: right;
-	padding: 20px 20px 10px 10px;
+	padding: 70px 20px 10px 10px;
 }
 .slider{
 	background: #CD5C5C;
@@ -114,7 +113,7 @@ p {
 	text-decoration: none;
 	margin-top: 0px;
 	height:30px;
-	padding-left:320px;
+	padding-left:360px;
 	min-width:500px;
 }
 .menu li:hover ul{
@@ -232,7 +231,6 @@ img {
 .content3{
 	background: rgba(112, 94, 94,0.8);
 	width:1300px;
-	height: 1050px;
 }
 .content4{
 	width: 1300px;
